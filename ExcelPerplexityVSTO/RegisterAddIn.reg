@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Office\Excel\Addins\ExcelPerplexityVSTO]
+"Description"="Perplexity AI Assistant for Excel with OHLC charting capabilities"
+"FriendlyName"="Excel Perplexity VSTO Add-in"
+"LoadBehavior"=dword:00000003
+"Manifest"="C:\\Users\\naray\\Documents\\Projects\\ExcelClaude\\ExcelPerplexityVSTO\\ExcelPerplexityVSTO\\bin\\Release\\ExcelPerplexityVSTO.vsto|vstolocal"

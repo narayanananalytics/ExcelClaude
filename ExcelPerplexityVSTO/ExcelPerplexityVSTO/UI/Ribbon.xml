@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" onLoad="Ribbon_Load">
+  <ribbon>
+    <tabs>
+      <tab id="PerplexityTab" label="Perplexity AI">
+        <group id="AIGroup" label="AI Assistant">
+          <button id="btnShowTaskPane"
+                  label="AI Assistant"
+                  size="large"
+                  imageMso="HappyFace"
+                  onAction="ShowTaskPane_Click"
+                  screentip="Show AI Assistant"
+                  supertip="Open the Perplexity AI assistant to generate Excel automation code"/>
+          <button id="btnSettings"
+                  label="Settings"
+                  size="normal"
+                  imageMso="AdpPrimaryKey"
+                  onAction="Settings_Click"
+                  screentip="Settings"
+                  supertip="Configure Perplexity API key and other settings"/>
+        </group>
+
+        <group id="ChartGroup" label="Charts">
+          <button id="btnInsertSampleData"
+                  label="Insert Sample Data"
+                  size="normal"
+                  imageMso="TableInsertDialog"
+                  onAction="InsertSampleData_Click"
+                  screentip="Insert Sample OHLC Data"
+                  supertip="Insert sample stock data for testing chart features"/>
+          <button id="btnCreateOHLC"
+                  label="Create OHLC Chart"
+                  size="large"
+                  imageMso="CreateChart"
+                  onAction="CreateOHLCChart_Click"
+                  screentip="Create OHLC Chart"
+                  supertip="Create a candlestick chart from selected data with green/red formatting"/>
+        </group>
+
+        <group id="OverlaysGroup" label="Chart Overlays">
+          <button id="btnAddMA"
+                  label="Add Moving Average"
+                  size="normal"
+                  imageMso="DiagramTargetInsert"
+                  onAction="AddMovingAverage_Click"
+                  screentip="Add Moving Average"
+                  supertip="Add a moving average overlay to an existing chart"/>
+        </group>
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>

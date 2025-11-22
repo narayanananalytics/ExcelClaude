@@ -1,0 +1,13 @@
+C:\Users\naray\Documents\Projects\ExcelClaude\ExcelPerplexityVSTO\ExcelPerplexityVSTO\obj\Release\ExcelPerplexityVSTO.csproj.AssemblyReference.cache
+C:\Users\naray\Documents\Projects\ExcelClaude\ExcelPerplexityVSTO\ExcelPerplexityVSTO\obj\Release\ExcelPerplexityVSTO.csproj.CoreCompileInputs.cache
+C:\Users\naray\Documents\Projects\ExcelClaude\ExcelPerplexityVSTO\ExcelPerplexityVSTO\bin\Release\ExcelPerplexityVSTO.dll.config
+C:\Users\naray\Documents\Projects\ExcelClaude\ExcelPerplexityVSTO\ExcelPerplexityVSTO\bin\Release\ExcelPerplexityVSTO.dll
+C:\Users\naray\Documents\Projects\ExcelClaude\ExcelPerplexityVSTO\ExcelPerplexityVSTO\bin\Release\ExcelPerplexityVSTO.pdb
+C:\Users\naray\Documents\Projects\ExcelClaude\ExcelPerplexityVSTO\ExcelPerplexityVSTO\bin\Release\ExcelPerplexityVSTO.dll.manifest
+C:\Users\naray\Documents\Projects\ExcelClaude\ExcelPerplexityVSTO\ExcelPerplexityVSTO\bin\Release\ExcelPerplexityVSTO.vsto
+C:\Users\naray\Documents\Projects\ExcelClaude\ExcelPerplexityVSTO\ExcelPerplexityVSTO\bin\Release\Newtonsoft.Json.dll
+C:\Users\naray\Documents\Projects\ExcelClaude\ExcelPerplexityVSTO\ExcelPerplexityVSTO\bin\Release\Newtonsoft.Json.xml
+C:\Users\naray\Documents\Projects\ExcelClaude\ExcelPerplexityVSTO\ExcelPerplexityVSTO\obj\Release\ExcelPer.E37F3B5D.Up2Date
+C:\Users\naray\Documents\Projects\ExcelClaude\ExcelPerplexityVSTO\ExcelPerplexityVSTO\obj\Release\ExcelPerplexityVSTO.dll
+C:\Users\naray\Documents\Projects\ExcelClaude\ExcelPerplexityVSTO\ExcelPerplexityVSTO\obj\Release\ExcelPerplexityVSTO.pdb
+C:\Users\naray\Documents\Projects\ExcelClaude\ExcelPerplexityVSTO\ExcelPerplexityVSTO\obj\Release\ExcelPerplexityVSTO.dll.config
